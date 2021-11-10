@@ -16,5 +16,11 @@ County application for building system
 - [Permissions](#Permissions)
 - [Libraries](#Libraries)
 
+### Setting up
+
+### Permissions
+
+### Libraries
+
 ## Contributors
 
