@@ -1,5 +1,5 @@
 # CountyBuildingApp
-County application for building system
+Mobile app for county regulatory services on buildings built on android platform.
 
 
 ## Table of Contents
