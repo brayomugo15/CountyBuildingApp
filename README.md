@@ -13,6 +13,8 @@ County application for building system
 
 ## Related Resources
 - [Setting up](#Setting)
+- [Permissions](#Permissions)
+- [Libraries](#Libraries)
 
 ## Contributors
 
