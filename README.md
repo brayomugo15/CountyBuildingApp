@@ -22,4 +22,4 @@ Mobile app for county regulatory services on buildings built on android platform
 ### Libraries
 
 ## Contributors
-[Brian Mugo](https://github.com/brayomugo15)
+- [Brian Mugo](https://github.com/brayomugo15)
