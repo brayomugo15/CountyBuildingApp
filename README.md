@@ -20,6 +20,7 @@ Mobile app for county regulatory services on buildings built on android platform
 ### Permissions
 
 ### Libraries
+- Get Mpesa Api reources [here](https://developer.safaricom.co.ke/) 
 
 ## Contributors
 - [Brian Mugo](https://github.com/brayomugo15)
