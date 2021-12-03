@@ -16,7 +16,7 @@ Mobile app for county regulatory services on buildings built on android platform
 - [Libraries](#Libraries)
 
 ### Setting up
-- Download [Android studio](https://developer.android.com/studio)
+- Download and install [Android studio](https://developer.android.com/studio)
 ### Permissions
 
 ### Libraries
